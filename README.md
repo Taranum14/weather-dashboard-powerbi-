@@ -2,7 +2,8 @@
 
 An interactive, live-connected weather monitoring dashboard built in **Power BI**, showing real-time conditions, 7-day forecasts, air quality, and climate metrics across multiple cities.
 
-<img width="965" height="547" alt="Screenshot 2026-07-13 004254" src="https://github.com/user-attachments/assets/8909f1db-9676-4808-8333-b46da29a3a3e" />
+<img width="923" height="520" alt="Screenshot 2026-07-13 005332" src="https://github.com/user-attachments/assets/34d52c31-297d-4b41-a1dd-b1e9e9b8c536" />
+
 
 
 ---
@@ -97,8 +98,3 @@ This dashboard pulls live data from **WeatherAPI.com** and presents it in a sing
 - Drillthrough page for detailed pollutant analysis
 
 ---
-
-
----
-
-## 📂 Repository Structure
