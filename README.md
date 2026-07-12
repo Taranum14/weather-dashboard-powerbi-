@@ -4,7 +4,13 @@ An interactive, live-connected weather monitoring dashboard built in **Power BI*
 
 
 
-https://github.com/user-attachments/assets/35ffae7d-f5f8-43cb-95c9-ef271d05a469
+
+https://github.com/user-attachments/assets/714674a3-ca19-4755-8570-8a8e42247328
+
+
+
+
+
 
 
 
