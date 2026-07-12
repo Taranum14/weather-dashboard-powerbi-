@@ -59,7 +59,7 @@ This dashboard pulls live data from **WeatherAPI.com** and presents it in a sing
 - **Sort By Column** – ensuring days of week display in correct chronological order (not alphabetical)
 - **Theme Customization** – custom dark theme, fonts, and color palette
 - **Data Refresh / Scheduled Refresh** – keeping the report "live" via Power BI Service or gateway refresh
-- **Tooltip Pages** *(optional, if built)* – custom report-page tooltips for richer hover detail
+- **Tooltip Pages** – custom report-page tooltips for richer hover detail
 
 ---
 
@@ -71,7 +71,7 @@ This dashboard pulls live data from **WeatherAPI.com** and presents it in a sing
 | **Power Query (M)** | Data transformation & cleaning |
 | **DAX** | Calculated measures & columns |
 | **[WeatherAPI.com](https://www.weatherapi.com/)** | Live weather, forecast & air quality data source |
-| **Power BI Service** *(optional)* | Publishing & scheduled refresh |
+
 
 
 ---
@@ -88,6 +88,22 @@ This dashboard pulls live data from **WeatherAPI.com** and presents it in a sing
 5. Use the city selector cards to explore weather across different locations
 
 
+
+---
+## 📂 Repository Structure
+
+```
+weather-dashboard-powerbi/
+│
+├── dashboard.gif      # Animated preview of the dashboard
+└── README.md
+```
+
+---
+
+## 🚀 About the Files
+
+This repo currently showcases the project via a preview GIF and this README. The `.pbix` file isn't included in the repo (Power BI files can carry sensitive API keys/data, so I'm keeping it private for now) — happy to share it on request, or check the GIF above to see it in action.
 
 ---
 
